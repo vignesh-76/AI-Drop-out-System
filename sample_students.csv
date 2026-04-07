@@ -1,0 +1,11 @@
+name,roll_no,department,attendance,subject1_marks,subject2_marks,subject3_marks,subject4_marks,subject5_marks,fees_pending
+John Smith,21CS001,Computer Science,85,78,80,75,82,10
+Sarah Johnson,21IT002,Information Technology,45,35,38,32,30,60
+Mike Brown,21CS003,Computer Science,92,88,90,87,89,5
+Emily Davis,21EN004,Electronics,65,55,58,52,60,40
+Chris Wilson,21MP005,Mechanical,30,25,28,22,20,80
+Anna Martinez,21CS006,Computer Science,88,82,85,80,84,15
+David Lee,21IT007,Information Technology,70,60,62,58,65,25
+Lisa Anderson,21EN008,Electronics,55,48,50,45,52,50
+Robert Taylor,21MP009,Mechanical,40,38,40,35,38,55
+Jennifer White,21CS010,Computer Science,78,72,75,70,78,20

@@ -1,0 +1,11 @@
+name,roll_no,department,attendance,subject1_marks,subject2_marks,subject3_marks,subject4_marks,subject5_marks,fees_pending
+Raj Kumar,21CS001,Computer Science,85,78,82,80,85,5
+Priya Singh,21CS002,Computer Science,92,88,90,89,91,2
+Amit Patel,21CS003,Computer Science,45,40,42,38,35,75
+Zara Khan,21IT001,Information Technology,70,65,68,70,72,40
+Rohan Verma,21CE001,Civil Engineering,55,50,52,48,51,50
+Neha Sharma,21CS004,Computer Science,88,85,87,86,89,8
+Vikram Singh,21IT002,Information Technology,38,35,32,30,28,85
+Anjali Gupta,21CE002,Civil Engineering,78,75,77,76,80,15
+Sanjay Kumar,21CS005,Computer Science,62,58,60,59,61,45
+Divya Patel,21IT003,Information Technology,95,92,94,91,93,0

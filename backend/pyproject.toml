@@ -1,0 +1,12 @@
+[project]
+name = "edupulse-backend"
+version = "0.1.0"
+description = "EduPulse AI-powered student risk prediction backend"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.128.1",
+    "python-multipart>=0.0.9",
+    "PyJWT>=2.8.0",
+    "bcrypt>=4.1.0",
+    "pydantic[email]>=2.0.0"
+]
